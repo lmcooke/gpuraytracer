@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>phong.frag</file>
+        <file>phong.vert</file>
+        <file>quad.vert</file>
+        <file>texture.frag</file>
+        <file>ray.frag</file>
+        <file>composite.frag</file>
+        <file>cube.vert</file>
+        <file>envMap.frag</file>
+    </qresource>
+</RCC>
